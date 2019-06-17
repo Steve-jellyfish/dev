@@ -3,7 +3,6 @@ please put some comments here
 
 */
 
-
 SELECT 
 	fullVisitorId,
 	visitId,
