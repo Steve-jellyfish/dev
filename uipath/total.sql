@@ -22,5 +22,5 @@ SELECT
 	geoNetwork.latitude as geoNetwork_latitude,
 	geoNetwork.longitude as geoNetwork_longitude, 
 	totals.sessionQualityDim as sessionQualityDim
-from `marketing-224613:69782380.ga_sessions_20190610`
+from `marketing-224613.69782380.ga_sessions_20190610`
 
